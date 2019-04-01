@@ -1,4 +1,4 @@
-# Undergraduate-Project
+# Undergraduate-Final-Year-Project
 This repo contains all files relevant to my final year project ('Detection of Leitmotivs in Wagner's Opera using Neural Networks') 
 for BEng Computer Systems Engineering at the University of Birmingham.
 
